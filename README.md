@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<-- **raspcwalter/raspcwalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **raspcwalter/raspcwalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Solidity smart contracts.
 - 🌱 I’m currently learning Solidity.
